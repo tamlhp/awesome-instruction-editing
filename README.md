@@ -28,7 +28,7 @@ A collection of academic articles, published methodology, and datasets on the su
 ## Approaches
 
 | **Title** | **Year** | **Venue** | **Editing** | **Code** |
-| --------------- | :----: | ---- | :----: | :----: | :----: | :----: |
+| --------------- | :----: | ---- | :----: | :----: |
 | [InstructPix2Pix: Learning To Follow Image Editing Instruction](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html) | 2023 | CVPR | Image | [[Code]](https://www.timothybrooks.com/instruct-pix2pix)
 
 ----------
