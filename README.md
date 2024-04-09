@@ -18,9 +18,9 @@ A collection of academic articles, published methodology, and datasets on the su
 ## Existing Surveys
 | **Paper Title** | **Venue** | **Year** | **Note** |
 | --------------- | ---- | ---- | ---- |
-| [INFOBENCH: Evaluating Instruction Following Ability in Large Language Models](https://arxiv.org/abs/2401.03601) | arXiv | 2024 |  Text-only  |
-| [Multimodal Image Synthesis and Editing: The Generative AI Era](https://ieeexplore.ieee.org/abstract/document/10230895) | TPAMI | 2023 |  |
-| [LLM-driven Instruction Following: Progresses and Concerns](https://aclanthology.org/2023.emnlp-tutorial.4/) | EMNLP | 2023 |  Text-only  |
+| [INFOBENCH: Evaluating Instruction Following Ability in Large Language Models](https://arxiv.org/abs/2401.03601) | arXiv | 2024 |  Text Editing  |
+| [Multimodal Image Synthesis and Editing: The Generative AI Era](https://ieeexplore.ieee.org/abstract/document/10230895) | TPAMI | 2023 | X-to-Image Generation |
+| [LLM-driven Instruction Following: Progresses and Concerns](https://aclanthology.org/2023.emnlp-tutorial.4/) | EMNLP | 2023 |  Text Editing  |
 
 ----------
 
