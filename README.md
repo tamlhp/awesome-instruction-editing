@@ -1,5 +1,5 @@
 # Awesome Instruction Editing
-A Survey of Instruction-Guided Image and Media Editing
+A Survey of Instruction-Guided Image and Media Editing in LLM Era
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-instruction-editing?color=yellow&label=Stars)
@@ -10,7 +10,7 @@ A Survey of Instruction-Guided Image and Media Editing
 
 A collection of academic articles, published methodology, and datasets on the subject of **Instruction-Guided Image and Media Editing**.
 
-- [Image and Media Editing with Human and LLM-based Instructions: A Survey](#awesome-instruction-editing)
+- [Image and Media Editing with LLM-empowered Instructions: A Survey](#awesome-instruction-editing)
 
 
 ----------
