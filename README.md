@@ -27,7 +27,7 @@ A collection of academic articles, published methodology, and datasets on the su
 ## Approaches
 
 | **Title** | **Year** | **Venue** | **Editing** | **Method** | **Code** |
-| --------------- | :----: | ---- | :----: | :----: |
+| --------------- | :----: | ---- | :----: | :----: | :----: |
 | [Guiding Instruction-based Image Editing via Multimodal Large Language Models](https://openreview.net/forum?id=S1RKWSyZ2Y) | 2024 | ICLR | Image | Diffusion | [[Code]](https://mllm-ie.github.io/) |
 | [Hive: Harnessing human feedback for instructional visual editing](https://arxiv.org/abs/2303.09618) | 2024 | CVPR | Image | Diffusion | [[Code]](https://shugerdou.github.io/hive/) |
 | [EffiVED:Efficient Video Editing via Text-instruction Diffusion Models](https://arxiv.org/abs/2403.11568) | 2024 | arXiv | Video | Diffusion | -- | 
