@@ -230,7 +230,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | Perceptual Quality | Learned Perceptual Image Patch Similarity (LPIPS) | $\text{LPIPS}(x, x') = \sum_l \|\|\phi_l(x) - \phi_l(x')\|\|^2$ | Measures perceptual similarity between images, with lower scores indicating higher similarity. |
 | | Structural Similarity Index (SSIM) | $\text{SSIM}(x, x') = \frac{(2\mu_x\mu_{x'} + C_1)(2\sigma_{xx'} + C_2)}{(\mu_x^2 + \mu_{x'}^2 + C_1)(\sigma_x^2 + \sigma_{x'}^2 + C_2)}$ | Measures visual similarity based on luminance, contrast, and structure. |
 | | Fréchet Inception Distance (FID) | $\text{FID} = \|\|\mu_r - \mu_g\|\|^2 + \text{Tr}(\Sigma_r + \Sigma_g - 2(\Sigma_r \Sigma_g)^{1/2})$ | Measures the distance between the real and generated image feature distributions. |
-| | Inception Score (IS) | $\text{IS} = \exp(\mathbb{E}_{x} D_{KL}(p(y\|x) \|\| p(y)))$ | Evaluates image quality and diversity based on label distribution consistency. |
+| | Inception Score (IS) | $\text{IS} = \exp(E_x D_{KL}(p(y\|x) \|\| p(y)))$ | Evaluates image quality and diversity based on label distribution consistency. |
 | Structural Integrity | Peak Signal-to-Noise Ratio (PSNR) | $\text{PSNR} = 10 \log_{10} \left( \frac{\text{MAX}^2}{\text{MSE}} \right)$ | Measures image quality based on pixel-wise errors, with higher values indicating better quality. |
 | | Mean Intersection over Union (mIoU) | $\text{mIoU} = \frac{1}{N} \sum_{i=1}^{N} \frac{\|A_i \cap B_i\|}{\|A_i \cup B_i\|}$ | Assesses segmentation accuracy by comparing predicted and ground truth masks. |
 | | Mask Accuracy | $\text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{FP} + \text{FN} + \text{TN}}$ | Evaluates the accuracy of generated masks. |
@@ -238,7 +238,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | Semantic Alignment | Edit Consistency | $\text{EC} = \frac{1}{N} \sum_{i=1}^{N} 1\{E_i = E_{\text{ref}}\}$ | Measures the consistency of edits across similar prompts. |
 | | Target Grounding Accuracy | $\text{TGA} = \frac{\text{Correct Targets}}{\text{Total Targets}}$ | Evaluates how well edits align with specified targets in the prompt. |
 | | Embedding Space Similarity | $\text{CosSim}(v_x, v_{x'}) = \frac{v_x \cdot v_{x'}}{\|\|v_x\|\| \, \|\|v_{x'}\|\|}$ | Measures similarity between the edited and reference images in feature space. |
-| | Decomposed Requirements Following Ratio (DRFR) | $\text{DRFR} = \frac{1}{N} \sum_{i=1}^{N} \frac{\text{Requirements Followed}_{i}}{\text{Total Requirements}_{i}}$ | Assesses how closely the model follows decomposed instructions. |
+| | Decomposed Requirements Following Ratio (DRFR) | $\text{DRFR} = \frac{1}{N} \sum_{i=1}^{N} \frac{\text{Requirements Followed}}{\text{Total Requirements}}$ | Assesses how closely the model follows decomposed instructions. |
 | User-Based Metrics | User Study Ratings |  | Captures user feedback through ratings of image quality. |
 | | Human Visual Turing Test (HVTT) | $\text{HVTT} = \frac{\text{Real Judgements}}{\text{Total Judgements}}$ | Measures the ability of users to distinguish between real and generated images. |
 | | Click-through Rate (CTR) | $\text{CTR} = \frac{\text{Clicks}}{\text{Total Impressions}}$ | Tracks user engagement by measuring image clicks. |
