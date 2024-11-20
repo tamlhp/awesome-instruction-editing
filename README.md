@@ -164,6 +164,48 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction](https://openaccess.thecvf.com/content_ICCV_2019/html/El-Nouby_Tell_Draw_and_Repeat_Generating_and_Modifying_Images_Based_on_ICCV_2019_paper.html) | 2019 | ICCV | GAN | [Code](https://github.com/Maluuba/GeNeVA) | 
 | [Language-Based Image Editing With Recurrent Attentive Models](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Language-Based_Image_Editing_CVPR_2018_paper.html) | 2018 | CVPR | GAN, Recurrent Attention | [Code](https://github.com/Jianbo-Lab/LBIE) | 
 | [Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language](https://proceedings.neurips.cc/paper/2018/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract.html) | 2018 | NeurIPS | GAN, simple | [Code](https://github.com/woozzu/tagan) | 
+| [FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction](https://arxiv.org/abs/2409.18071) | 2024 | arXiv | Diffusion, instruction-driven editing | [Code](https://github.com/hrz2000/FreeEdit) |
+| [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](https://arxiv.org/abs/2410.11815) | 2024 | SIGGRAPH Asia | Diffusion, scene graph, image-editing | [Code](https://github.com/bestzzhang/SGEdit-code) |
+
+
+### Other types of Editing
+| **Title** | **Year** | **Venue** | **Category** | **Code** |
+| -------|------|-------|----------|------|
+| [AudioEditor: A Training-Free Diffusion-Based Audio Editing Framework](https://arxiv.org/abs/2409.12466) | 2024 | arXiv | Diffusion-based text-to-audio | [Code](https://github.com/NKU-HLT/AudioEditor) |
+| [Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis](https://arxiv.org/abs/2408.16845) | 2024 | BMVC | Diffusion-based local image manipulation | [Code](https://zelaki.github.io/localdiff/) |
+| [Steer-by-prior Editing of Symbolic Music Loops](https://arxiv.org/abs/2408.02434) | 2024 | MML | Masked Language Modelling, music instruments | [Code](https://erl-j.github.io/slm-mml-demo/) |
+| [Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning](https://arxiv.org/abs/2407.16564) | 2024 | ISMIR | Diffusion-based text-to-audio | [Code](https://github.com/fundwotsai2001/AP-adapter) |
+| [GroupDiff: Diffusion-based Group Portrait Editing](https://arxiv.org/abs/2409.14379) | 2024 | ECCV | Diffusion-based image editing | [Code](https://github.com/yumingj/GroupDiff) |
+| [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](https://arxiv.org/abs/2407.18247) | 2024 | ECCV  | Diffusion-based image editing | [Code](https://github.com/Visual-AI/RegionDrag) |
+| [SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing](https://arxiv.org/abs/2406.17396) | 2024 | arXiv | Multi-view consistency | |
+| [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | 2024 | arXiv | Diffusion-based editing | [Code](https://dream-catalyst.github.io) |
+| [MEDIC: Zero-shot Music Editing with Disentangled Inversion Control](https://arxiv.org/abs/2407.13220) | 2024 | arXiv | Audio editing | |
+| [3DEgo: 3D Editing on the Go!](https://arxiv.org/abs/2407.10102) | 2024 | ECCV | Monocular 3D Scene Synthesis | [Code](https://3dego.github.io/) |
+| [MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI](https://arxiv.org/abs/2407.15270) | 2024 | SASHIMI | Biomedical editing | |
+| [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850) | 2024 | ECCV | Image editing | |
+| [Hyper-parameter tuning for text guided image editing](https://arxiv.org/abs/2407.21703) | 2024 | arXiv | Text Editing | [Code](https://github.com/witcherofresearch/Forgedit/) |
+| [LEMON: Localized Editing with Mesh Optimization and Neural Shaders](https://arxiv.org/abs/2409.12024) | 2024 | arXiv | Mesh editing | |
+| [NeRF-Insert: 3D Local Editing with Multimodal Control Signals](https://arxiv.org/abs/2404.19204) | 2024 | arXiv | NeRF editing |  |
+| [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672) | 2024 | arXiv | Graphics Design Automation |  |
+| [AudioScenic: Audio-Driven Video Scene Editing](https://arxiv.org/abs/2404.16581) | 2024 | arXiv | Audio editing, Video editing, Audio-driven. |  |
+| [Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images](https://arxiv.org/abs/2306.00219) | 2024 | arXiv | Image editing |  |
+| [Streamlining Image Editing with Layered Diffusion Brushes](https://arxiv.org/abs/2405.00313) | 2024 | arXiv | Image editing |  |
+| [LocInv: Localization-aware Inversion for Text-Guided Image Editing](https://arxiv.org/abs/2405.01496) | 2024 | CVPR | Text editing, localization, refinement | [Code](https://github.com/wangkai930418/DPL) |
+| [SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing](https://arxiv.org/abs/2405.04007) | 2024 | arXiv | Image Editing Dataset | [Code](https://huggingface.co/datasets/AILab-CVC/SEED-Data-Edit) |
+| [SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models](https://arxiv.org/abs/2405.00878) | 2024 | arXiv | Audio Image Synthesis |  |
+| [Exploring Text-Guided Single Image Editing for Remote Sensing Images](https://arxiv.org/abs/2405.05769) | 2024 | IEEE Transactions on Geoscience and Remote Sensing | Text-guided editing |  |
+| [GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting](https://arxiv.org/abs/2405.07472) | 2024 | arXiv | 3D VTON |  |
+| [TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing](https://arxiv.org/abs/2405.16803) | 2024 | arXiv | Image editing, multimodal LLMs |  |
+| [Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection](https://arxiv.org/abs/2405.16823) | 2024 | arXiv | Unified Image Editing |  |
+| [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](https://arxiv.org/abs/2405.18386) | 2024 | Code and demo are available at: this https URL | Text-to-music editing | [Code](https://github.com/ldzhangyx/instruct-musicgen) |
+| [Text Guided Image Editing with Automatic Concept Locating and Forgetting](https://arxiv.org/abs/2405.19708) | 2024 | arXiv | Text-based image editing |  |
+| [Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition](https://arxiv.org/abs/2410.03335) | 2024 | arXiv | Text-to-Audio, Multimodal |  |
+| [Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/abs/2410.04965) | 2024 | arXiv | Text-guided 3D face editing |  |
+| [Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing](https://arxiv.org/abs/2410.10496) | 2024 | arXiv | Text-to-image, editing, diffusion |  |
+| [Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions](https://arxiv.org/abs/2410.18622) | 2024 | arXiv | Inverse rendering, HDR editing |  |
+| [HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion](https://arxiv.org/abs/2410.21789) | 2024 | arXiv | Hair editing, Diffusion models |  |
+| [DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability](https://arxiv.org/abs/2411.01819) | 2024 | arXiv | Synthetic Data Generation |  |
+| [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2411.04746) | 2024 | arXiv | Image Inversion | [Code](https://github.com/wangjiangshan0725/RF-Solver-Edit) |
 
 ----------
 
