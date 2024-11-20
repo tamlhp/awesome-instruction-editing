@@ -186,14 +186,10 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [3DEgo: 3D Editing on the Go!](https://arxiv.org/abs/2407.10102) | 2024 | ECCV | Monocular 3D Scene Synthesis | [Code](https://3dego.github.io/) |
 | [MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI](https://arxiv.org/abs/2407.15270) | 2024 | SASHIMI | Biomedical editing | |
 | [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850) | 2024 | ECCV | Image editing | |
-| [LEMON: Localized Editing with Mesh Optimization and Neural Shaders](https://arxiv.org/abs/2409.12024) | 2024 | arXiv | Mesh editing | |
-| [NeRF-Insert: 3D Local Editing with Multimodal Control Signals](https://arxiv.org/abs/2404.19204) | 2024 | arXiv | NeRF editing |  |
-| [BlenderAlchemy: Editing 3D Graphics with Vision-Language Models](https://arxiv.org/abs/2404.17672) | 2024 | arXiv | Graphics Design Automation |  |
-| [AudioScenic: Audio-Driven Video Scene Editing](https://arxiv.org/abs/2404.16581) | 2024 | arXiv | Audio editing, Video editing, Audio-driven. |  |
+| [LEMON: Localized Editing with Mesh Optimization and Neural Shaders](https://arxiv.org/abs/2409.12024) | 2024 | arXiv | Mesh editing |  |
 | [Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images](https://arxiv.org/abs/2306.00219) | 2024 | arXiv | Image editing |  |
 | [Streamlining Image Editing with Layered Diffusion Brushes](https://arxiv.org/abs/2405.00313) | 2024 | arXiv | Image editing |  |
 | [SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing](https://arxiv.org/abs/2405.04007) | 2024 | arXiv | Image Editing Dataset | [Code](https://huggingface.co/datasets/AILab-CVC/SEED-Data-Edit) |
-| [SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models](https://arxiv.org/abs/2405.00878) | 2024 | arXiv | Audio Image Synthesis |  |
 | [Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions](https://arxiv.org/abs/2410.18622) | 2024 | arXiv | Inverse rendering, HDR editing |  |
 | [HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion](https://arxiv.org/abs/2410.21789) | 2024 | arXiv | Hair editing, Diffusion models |  |
 | [DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability](https://arxiv.org/abs/2411.01819) | 2024 | arXiv | Synthetic Data Generation |  |
