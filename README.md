@@ -41,12 +41,12 @@ If you find this work helpful in your research, welcome to cite the paper and gi
 
 Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-2411.09955-b31b1b.svg)](https://arxiv.org/abs/2411.09955)
 
->Nguyen, T.T., Ren, Z., Pham, T., Nguyen, P.L., Yin, H., and Nguyen, Q.V.H., 2024. Instruction-Guided Editing Controls for Images and Multimedia: A Survey in LLM Era. arXiv preprint arXiv:2411.09955.
+>Nguyen, T.T., Ren, Z., Pham, T., Huynh, T.T., Nguyen, P.L., Yin, H., and Nguyen, Q.V.H., 2024. Instruction-Guided Editing Controls for Images and Multimedia: A Survey in LLM Era. arXiv preprint arXiv:2411.09955.
 
 ```
-@article{nguyen2024instructionguidededitingcontrolsimages,
+@article{nguyen2024instruction,
   title={Instruction-Guided Editing Controls for Images and Multimedia: A Survey in LLM era},
-  author={Thanh Tam Nguyen and Zhao Ren and Trinh Pham and Phi Le Nguyen and Hongzhi Yin and Quoc Viet Hung Nguyen},
+  author={Thanh Tam Nguyen and Zhao Ren and Trinh Pham and Thanh Trung Huynh and Phi Le Nguyen and Hongzhi Yin and Quoc Viet Hung Nguyen},
   journal={arXiv preprint arXiv:2411.09955},
   year={2024}
 }
