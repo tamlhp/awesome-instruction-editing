@@ -168,6 +168,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/abs/2410.04965) | 2024 | arXiv | Text-guided 3D face editing |  |
 | [Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing](https://arxiv.org/abs/2410.10496) | 2024 | arXiv | Text-to-image, editing, diffusion |  |
 | [Hyper-parameter tuning for text guided image editing](https://arxiv.org/abs/2407.21703) | 2024 | arXiv | Text Editing | [Code](https://github.com/witcherofresearch/Forgedit/) |
+| [Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models](https://arxiv.org/abs/2411.07232) | 2024 | arXiv | Text-guided Object Insertion | [Code](https://github.com/NVlabs/addit)
 
 ### Other types of Editing
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
