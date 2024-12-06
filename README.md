@@ -195,6 +195,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion](https://arxiv.org/abs/2410.21789) | 2024 | arXiv | Hair editing, Diffusion models |  |
 | [DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability](https://arxiv.org/abs/2411.01819) | 2024 | arXiv | Synthetic Data Generation |  |
 | [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2411.04746) | 2024 | arXiv | Image Inversion | [Code](https://github.com/wangjiangshan0725/RF-Solver-Edit) |
+| [Pathways on the Image Manifold: Image Editing via Video Generation](https://arxiv.org/abs/2411.16819) | 2024 | arXiv | video-based editing, Frame2Frame, Temporal Editing Caption | |
 
 ----------
 
