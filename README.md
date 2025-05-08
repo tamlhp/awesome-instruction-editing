@@ -303,3 +303,7 @@ If you have some other related references, please feel free to create a Github i
 
 [![HitCount](https://hits.dwyl.com/tamlhp/awesome-instruction-editing.svg?style=flat-square)](http://hits.dwyl.com/tamlhp/awesome-instruction-editing)
 
+<img src="https://github.com/tamlhp/awesome-instruction-editing/blob/main/README.md?raw=true#visit" width="1" height="1">
+
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=success&label=visits&query=value&url=https://raw.githubusercontent.com/tamlhp/awesome-instruction-editing/main/data/visits.json)
+
