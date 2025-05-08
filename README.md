@@ -4,7 +4,7 @@ A Survey of Instruction-Guided Image and Media Editing in LLM Era
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.09955-b31b1b.svg)](https://arxiv.org/abs/2411.09955)
 ![GitHub stars](https://img.shields.io/github/stars/tamlhp/awesome-instruction-editing?color=yellow&label=Stars)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamlhp%2Fawesome-instruction-editing%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-instruction-editing)
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>
 
 
@@ -299,6 +299,7 @@ Feel free to contact us if you have any queries or exciting news. In addition, w
 
 If you have some other related references, please feel free to create a Github issue with the paper information. We will glady update the repos according to your suggestions. (You can also create pull requests, but it might take some time for us to do the merge)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftamlhp%2Fawesome-instruction-editing%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![HitCount](https://hits.dwyl.com/tamlhp/awesome-instruction-editing.svg?style=flat-square)](http://hits.dwyl.com/tamlhp/awesome-instruction-editing)
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tamlhp.awesome-instruction-editing)
+
