@@ -14,7 +14,8 @@ A collection of academic articles, published methodology, and datasets on the su
 - [Instruction-Guided Editing Controls for Images and Multimedia: A Survey in LLM era](#awesome-instruction-editing)
     - [Existing Surveys](#existing-surveys)
   - [Taxonomy](#taxonomy)
-  - [Approaches](#approaches)
+  - [Approaches for Image Editing](#approaches-for-image-editing)
+  - [Approaches for Media Editing](#approaches-for-media-editing)
   - [Datasets](#datasets)
     - [Type: General](#type-general)
     - [Type: Image Captioning](#type-image-captioning)
@@ -70,7 +71,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 
 ----------
 
-## Approaches
+## Approaches for Image Editing
 
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
 | -------|------|-------|----------|------|
@@ -170,7 +171,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [Hyper-parameter tuning for text guided image editing](https://arxiv.org/abs/2407.21703) | 2024 | arXiv | Text Editing | [Code](https://github.com/witcherofresearch/Forgedit/) |
 | [Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models](https://arxiv.org/abs/2411.07232) | 2024 | arXiv | Text-guided Object Insertion | [Code](https://github.com/NVlabs/addit)
 
-### Other types of Editing
+## Approaches for Media Editing
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
 | -------|------|-------|----------|------|
 | [SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing](https://arxiv.org/abs/2410.11815) | 2024 | SIGGRAPH Asia | Diffusion, scene graph, image-editing | [Code](https://github.com/bestzzhang/SGEdit-code) |
