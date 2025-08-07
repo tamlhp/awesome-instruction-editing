@@ -168,6 +168,22 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing](https://arxiv.org/abs/2410.10496)</mark> | 2024 | arXiv | Text-to-image, editing, diffusion |  |
 | <mark>[Hyper-parameter tuning for text guided image editing](https://arxiv.org/abs/2407.21703)</mark> | 2024 | arXiv | Text Editing | [Code](https://github.com/witcherofresearch/Forgedit/) |
 | <mark>[Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models](https://arxiv.org/abs/2411.07232)</mark> | 2024 | arXiv | Text-guided Object Insertion | [Code](https://github.com/NVlabs/addit)
+| <mark>[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](https://arxiv.org/abs/2412.02366)</mark> | 2024 | arXiv | Diffusion image augmentation |  |
+| <mark>[SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](https://arxiv.org/abs/2412.04301)</mark> | 2024 | arXiv | Text-Guided Image Editing |  |
+| <mark>[FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing](https://arxiv.org/abs/2412.07517)</mark> | 2024 | arXiv | semantic image editing |  |
+| <mark>[FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers](https://arxiv.org/abs/2412.09611)</mark> | 2024 | arXiv | disentangled semantic editing |  |
+| <mark>[UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency](https://arxiv.org/abs/2412.15216)</mark> | 2024 | arXiv | Instruction-based image editing |  |
+| <mark>[CA-Edit: Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing](https://arxiv.org/abs/2412.13565)</mark> | 2024 | arXiv | facial attribute editing |  |
+| <mark>[Unsupervised Region-Based Image Editing of Denoising Diffusion Models](https://arxiv.org/abs/2412.12912)</mark> | 2024 | arXiv | region-based image editing |  |
+| <mark>[Edicho: Consistent Image Editing in the Wild](https://arxiv.org/abs/2412.21079)</mark> | 2024 | arXiv | consistent image editing |  |
+| <mark>[LIME: Localized Image Editing via Attention Regularization in Diffusion Models](https://arxiv.org/abs/2312.09256)</mark> | 2023 | arXiv | Localized image editing |  |
+| <mark>[Exploring Optimal Latent Trajetory for Zero-shot Image Editing](https://arxiv.org/abs/2501.03631)</mark> | 2025 | arXiv | zero-shot image editing |  |
+| <mark>[FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors](https://arxiv.org/abs/2501.08225)</mark> | 2025 | arXiv | interactive image editing |  |
+| <mark>[Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models](https://arxiv.org/abs/2503.04215)</mark> | 2025 | arXiv | personalized image editing |  |
+| <mark>[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](https://arxiv.org/abs/2504.13490)</mark> | 2025 | arXiv | instruction-guided image editing |  |
+| <mark>[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](https://arxiv.org/abs/2502.04050)</mark> | 2025 | arXiv | Fine-Grained Image Editing |  |
+| <mark>[S2Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](https://arxiv.org/abs/2507.04584)</mark> | 2025 | arXiv | text guided image editing |  |
+
 ## Approaches for Media Editing
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
 | -------|------|-------|----------|------|
@@ -194,6 +210,19 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | [DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability](https://arxiv.org/abs/2411.01819) | 2024 | arXiv | Synthetic Data Generation |  |
 | [Taming Rectified Flow for Inversion and Editing](https://arxiv.org/abs/2411.04746) | 2024 | arXiv | Image Inversion | [Code](https://github.com/wangjiangshan0725/RF-Solver-Edit) |
 | [Pathways on the Image Manifold: Image Editing via Video Generation](https://arxiv.org/abs/2411.16819) | 2024 | arXiv | video-based editing, Frame2Frame, Temporal Editing Caption | |
+| <mark>[PrEditor3D: Fast and Precise 3D Shape Editing](https://arxiv.org/abs/2412.06592)</mark> | 2024 | arXiv | 3D shape editing |  |
+| <mark>[Diffusion-Based Attention Warping for Consistent 3D Scene Editing](https://arxiv.org/abs/2412.07984)</mark> | 2024 | arXiv | 3D scene editing |  |
+| <mark>[MIVE: New Design and Benchmark for Multi-Instance Video Editing](https://arxiv.org/abs/2412.12877)</mark> | 2024 | arXiv | Multi-Instance Video Editing |  |
+| <mark>[DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes](https://arxiv.org/abs/2412.19458)</mark> | 2024 | arXiv | 3D object editing |  |
+| <mark>[MAKIMA: Tuning-free Multi-Attribute Open-domain Video Editing via Mask-Guided Attention Modulation](https://arxiv.org/abs/2412.19978)</mark> | 2024 | arXiv | Multi-Attribute Video Editing |  |
+| <mark>[Edit as You See: Image-guided Video Editing via Masked Motion Modeling](https://arxiv.org/abs/2501.04325)</mark> | 2025 | arXiv | image-guided video editing |  |
+| <mark>[EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](https://arxiv.org/abs/2412.11520)</mark> | 2024 | arXiv | 3D scene editing |  |
+| <mark>[CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing](https://arxiv.org/abs/2502.03997)</mark> | 2025 | arXiv | Text-Based CAD Editing |  |
+| <mark>[MRHaD: Mixed Reality-based Hand-Drawn Map Editing Interface for Mobile Robot Navigation](https://arxiv.org/abs/2504.00580)</mark> | 2025 | arXiv | mixed reality map editing |  |
+| <mark>[ScanEdit: Hierarchically-Guided Functional 3D Scan Editing](https://arxiv.org/abs/2504.15049)</mark> | 2025 | arXiv | 3D Scan Editing |  |
+| <mark>[Vidi: Large Multimodal Models for Video Understanding and Editing](https://arxiv.org/abs/2504.15681)</mark> | 2025 | arXiv | video understanding and editing |  |
+| <mark>[Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/abs/2505.01888)</mark> | 2025 | arXiv | 3D editing and generation |  |
+| <mark>[BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://arxiv.org/abs/2506.17450)</mark> | 2025 | arXiv | 3D visual editing |  |
 
 ----------
 
