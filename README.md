@@ -223,6 +223,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[Vidi: Large Multimodal Models for Video Understanding and Editing](https://arxiv.org/abs/2504.15681)</mark> | 2025 | arXiv | video understanding and editing |  |
 | <mark>[Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/abs/2505.01888)</mark> | 2025 | arXiv | 3D editing and generation |  |
 | <mark>[BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://arxiv.org/abs/2506.17450)</mark> | 2025 | arXiv | 3D visual editing |  |
+| <mark>[EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues](https://arxiv.org/abs/2502.02172)</mark> | 2025 | arXiv | Automated cinematic editing |  |
 
 ----------
 
