@@ -1,4 +1,4 @@
-# Awesome Instruction Editing
+# Awesome Instructional Editing
 A Survey of Instruction-Guided Image and Media Editing in LLM Era
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -183,6 +183,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](https://arxiv.org/abs/2504.13490)</mark> | 2025 | arXiv | instruction-guided image editing |  |
 | <mark>[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](https://arxiv.org/abs/2502.04050)</mark> | 2025 | arXiv | Fine-Grained Image Editing |  |
 | <mark>[S2Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](https://arxiv.org/abs/2507.04584)</mark> | 2025 | arXiv | text guided image editing |  |
+| <mark>[REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models](https://arxiv.org/abs/2504.18989)</mark> | 2025 | arXiv | iterative image editing |  |
 
 ## Approaches for Media Editing
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
@@ -224,6 +225,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/abs/2505.01888)</mark> | 2025 | arXiv | 3D editing and generation |  |
 | <mark>[BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://arxiv.org/abs/2506.17450)</mark> | 2025 | arXiv | 3D visual editing |  |
 | <mark>[EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues](https://arxiv.org/abs/2502.02172)</mark> | 2025 | arXiv | Automated cinematic editing |  |
+| <mark>[VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://arxiv.org/abs/2502.17258)</mark> | 2025 | arXiv | multi-grained video editing |  |
 
 ----------
 
