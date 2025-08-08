@@ -1,4 +1,4 @@
-# Awesome Instruction Editing
+# Awesome Instructional Editing
 A Survey of Instruction-Guided Image and Media Editing in LLM Era
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
