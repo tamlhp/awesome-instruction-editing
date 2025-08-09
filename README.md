@@ -184,6 +184,10 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](https://arxiv.org/abs/2502.04050)</mark> | 2025 | arXiv | Fine-Grained Image Editing |  |
 | <mark>[S2Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](https://arxiv.org/abs/2507.04584)</mark> | 2025 | arXiv | text guided image editing |  |
 | <mark>[REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models](https://arxiv.org/abs/2504.18989)</mark> | 2025 | arXiv | iterative image editing |  |
+| <mark>[Towards Efficient Exemplar Based Image Editing with Multimodal VLMs](https://arxiv.org/abs/2506.20155)</mark> | 2025 | arXiv | exemplar-based image editing |  |
+| <mark>[ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](https://arxiv.org/abs/2507.01496)</mark> | 2025 | arXiv | text-guided image editing |  |
+| <mark>[LUSD: Localized Update Score Distillation for Text-Guided Image Editing](https://arxiv.org/abs/2503.11054)</mark> | 2025 | arXiv | text-guided image editing |  |
+| <mark>[UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](https://arxiv.org/abs/2412.15216)</mark> | 2024 | arXiv | instruction-based image editing |  |
 
 ## Approaches for Media Editing
 | **Title** | **Year** | **Venue** | **Category** | **Code** |
@@ -226,6 +230,9 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-241
 | <mark>[BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing](https://arxiv.org/abs/2506.17450)</mark> | 2025 | arXiv | 3D visual editing |  |
 | <mark>[EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues](https://arxiv.org/abs/2502.02172)</mark> | 2025 | arXiv | Automated cinematic editing |  |
 | <mark>[VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing](https://arxiv.org/abs/2502.17258)</mark> | 2025 | arXiv | multi-grained video editing |  |
+| <mark>[VEU-Bench: Towards Comprehensive Understanding of Video Editing](https://arxiv.org/abs/2504.17828)</mark> | 2025 | arXiv | video editing benchmark |  |
+| <mark>[Controllable Pedestrian Video Editing for Multi-View Driving Scenarios via Motion Sequence](https://arxiv.org/abs/2508.00299)</mark> | 2025 | arXiv | pedestrian video editing |  |
+| <mark>[TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting](https://arxiv.org/abs/2507.13586)</mark> | 2025 | arXiv | Volume Scene Editing |  |
 
 ----------
 
